@@ -4,7 +4,7 @@ Based of python websockets documentation: https://websockets.readthedocs.io/en/s
 
 For demo to connect to the server:
     
-## JavaScript Client
+## JavaScript WebSocket Client
     Open the file 'client.html' in your browser
  
 ## Python WebSocket Client
