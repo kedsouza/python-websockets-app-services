@@ -5,7 +5,7 @@
     </head>
     <body>
         <script>
-            const WEBSOCKET_SERVER_URL = "ws://localhost:3000"
+            const WEBSOCKET_SERVER_URL = "wss://kedsouza-python-websockets.azurewebsites.net"
             var ws = new WebSocket(WEBSOCKET_SERVER_URL),
                 messages = document.createElement('ul');
             ws.onmessage = function (event) {

@@ -1,7 +1,7 @@
 import asyncio
 import websockets
 
-WEBSOCKET_SERVER_URL ="ws://localhost:3000"
+WEBSOCKET_SERVER_URL ="wss://kedsouza-python-websockets.azurewebsites.net"
 
 async def hello():
     async with websockets.connect(WEBSOCKET_SERVER_URL) as websocket:
