@@ -30,6 +30,5 @@
         "venv.bak{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/9216c2d3-667a-4cc5-b428-b5508bcc71e2/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/kedsouza-python-websockets",
     "appService.deploySubpath": "."
 }
